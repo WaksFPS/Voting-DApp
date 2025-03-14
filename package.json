@@ -1,0 +1,21 @@
+{
+  "name": "bchain-finals",
+  "version": "1.0.0",
+  "description": "Blockchain final requirement",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jeane Claude Maglaqui",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.1",
+    "express": "^4.18.2",
+    "express-fileupload": "1.4.0",
+    "hardhat": "^2.13.0",
+    "path": "^0.12.7"
+  }
+}
